@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class PerfectHomeApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(PerfectHomeApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(PerfectHomeApplication.class, args);
+    }
 
 }
